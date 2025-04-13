@@ -116,6 +116,14 @@ a {
     color: #0077B5;
 }
 
+.page-text a:hover {
+    color: blue;
+}
+
+.sidebar a:hover {
+    color: #D3D3D3;
+}
+
 #resume-embed {
     margin-left: auto;
     margin-right: auto;
