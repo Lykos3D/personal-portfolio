@@ -2,7 +2,7 @@
 const sidebarLinks = document.querySelectorAll('.sidebar-link');
 sidebarLinks.forEach(link => {
     link.addEventListener("mouseenter", function() {
-        link.style.color = "gray";
+        link.style.color = "#D3D3D3";
     });
     link.addEventListener("mouseleave", function() {
         link.style.color = "white";
