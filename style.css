@@ -97,13 +97,15 @@ li {
 }
 
 .starbucks,
-.bidmc {
+.bidmc,
+.chc {
     display: flex;
     align-items: center;
 }
 
 .starbucks-logo,
-.bidmc-logo {
+.bidmc-logo,
+.chc-logo {
     flex: 0 0 100%;
     min-width: 50px;
     max-width: 50px;
